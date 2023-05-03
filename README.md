@@ -3,7 +3,7 @@ This is a Python project for the "Self.py" online course,
 which includes answers to the course's exercises and the final project, the "hangman" game.
 
 ## Table of Contents
-- [Course Questions](#course-exercises)
+- [Course Exercises](#course-exercises)
 - [Hangman Game](#hangman-game)
 
 
