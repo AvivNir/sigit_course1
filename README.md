@@ -8,8 +8,8 @@ which includes answers to the course's exercises and the final project, the "han
 
 
 ## Course exercises
-The "Self.py" course includes a series of Python exercises that cover various topics,  
-The exercise's answers are provided in separate directories,  
+The "Self.py" course includes a series of Python exercises that cover various topics,
+The exercise's answers are provided in separate directories,
 with each file containing several answers.  
 
 In this project, you can find the Python files with the answers to the course questions.   
