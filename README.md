@@ -36,7 +36,7 @@ In this project, you can find the implementation of the "hangman" game, under th
 in the file **"hangman.py"**.
 
 To play the game, run the hangman.py file using Python.  
-The game will prompt you to enter the path to the words.txt file and the index of   
+The game will prompt you to enter the path to the words.txt file and the index of
 the secret word to be used in the game.  
 Once the game starts, you can enter letters to guess the secret word, do not enter invalid characters, only English alphabets.  
 The game ends when you correctly guess the word or run out of guesses.  
