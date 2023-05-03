@@ -3,7 +3,7 @@ This is a Python project for the "Self.py" online course,
 which includes answers to the course's exercises and the final project, the "hangman" game.
 
 ## Table of Contents
-- [Course Questions](#course-questions)
+- [Course Questions](#course-exercises)
 - [Hangman Game](#hangman-game)
 
 
@@ -12,7 +12,7 @@ The "Self.py" course includes a series of Python exercises that cover various to
 The exercise's answers are provided in separate directories,
 with each file containing several answers.  
 
-In this project, you can find the Python files with the answers to the course questions.   
+In this project, you can find the Python files with the answers to the course exercises.   
 The files are organized by unit number, and each file includes the exercise number and its solution.  
 
 ### The topics covered in the course include:
